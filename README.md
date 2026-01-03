@@ -19,7 +19,14 @@ The primary goal of this project is to **convert raw survey data into meaningful
 This project follows a **real-world analytics approach**, similar to how survey data is analyzed in professional business environments.
 
 ---
+## 📈 Dashboard Preview
 
+Below is a snapshot of the interactive Power BI dashboard created for this project:
+
+![Power BI Dashboard](Screenshot 2025-12-28 210849.png)
+<img width="1387" height="776" alt="Screenshot 2025-12-28 210849" src="https://github.com/user-attachments/assets/997d6937-640c-4b17-871c-006a837c6a6e" />
+
+---
 ## 🎯 Project Objectives
 
 The key objectives of this project are:
@@ -128,4 +135,4 @@ The Power BI dashboard provides:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/Data_professional_Analysis.git
+   git clone https://github.com/rahii19/Data_professional_Analysis.git
