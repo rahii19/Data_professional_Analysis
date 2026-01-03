@@ -1,6 +1,6 @@
 # 📊 Data Professional Analysis
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Power BI](PK)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
 
