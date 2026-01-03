@@ -23,8 +23,7 @@ This project follows a **real-world analytics approach**, similar to how survey 
 
 Below is a snapshot of the interactive Power BI dashboard created for this project:
 
-![Power BI Dashboard](Screenshot 2025-12-28 210849.png)
-<img width="1387" height="776" alt="Screenshot 2025-12-28 210849" src="https://github.com/user-attachments/assets/997d6937-640c-4b17-871c-006a837c6a6e" />
+<img width="1380" height="770" alt="Screenshot 2025-12-28 210849" src="https://github.com/user-attachments/assets/997d6937-640c-4b17-871c-006a837c6a6e" />
 
 ---
 ## 🎯 Project Objectives
@@ -67,7 +66,8 @@ Excel was used as the **initial data processing tool**:
 ### 🔹 Power BI
 Power BI was used to build the **final analytical solution**:
 - Importing cleaned Excel data  
-- Designing interactive dashboards for insights  
+- Designing interactive dashboards for insights
+- Added slicer for role and Gender to get personalized Dashboard
 
 ---
 
